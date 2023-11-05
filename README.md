@@ -1,4 +1,4 @@
-# cnn_sample_classification
+# fashion_mnist_classification
 cnnのモデルをデプロイするサンプルアプリ(streamlit)
 
 # アプリのURL
