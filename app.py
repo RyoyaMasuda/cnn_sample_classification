@@ -8,8 +8,8 @@ from model import predict
 # st.set_option("deprecation.showfileUploaderEncoding", False)
 # st.set_option("deprecation.file_uploader.encoding", False)
 
-st.sidebar.title('画像認識アプリ(sample)')
-st.sidebar.write('オリジナルの画像認識モデルを使って画像を判定します。')
+st.sidebar.title('画像認識アプリ')
+st.sidebar.write('画像認識モデルを使って画像を判定します。')
 
 st.sidebar.write('')
 
