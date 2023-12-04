@@ -13,4 +13,4 @@ cnnのモデルをデプロイするアプリ(streamlit)<br>
 - アンクルブーツ
 
 # アプリのURL
-https://cnnsampleclassification-78wsczxfa2g.streamlit.app/
+https://fashionmnistclassification-iqf97v2zcimecgpbazu4ud.streamlit.app/
