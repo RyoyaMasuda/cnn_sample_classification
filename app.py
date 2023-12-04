@@ -5,7 +5,8 @@ from PIL import Image
 from model import predict
 
 # 非推奨の処理に対する警告を非表示にする
-st.set_option("deprecation.showfileUploaderEncoding", False)
+# st.set_option("deprecation.showfileUploaderEncoding", False)
+st.set_option("deprecation.file_uploader.encoding", False)
 
 st.sidebar.title('画像認識アプリ(sample)')
 st.sidebar.write('オリジナルの画像認識モデルを使って画像を判定します。')
